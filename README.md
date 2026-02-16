@@ -63,12 +63,13 @@ The system continuously monitors user behavior such as interaction patterns, nav
 
 ![Login](screenshots/login.jpeg)
 ![Register](screenshots/register.jpeg)
-![Admin Dashboard](screenshots/admin dashboard.jpeg)
-![System Overview](screenshots/system overview.jpeg)
-![User Management](screenshots/user management.jpeg)
+![Admin Dashboard](screenshots/admin%20dashboard.jpeg)
+![System Overview](screenshots/system%20overview.jpeg)
+![User Management](screenshots/user%20management.jpeg)
 ![Transaction](screenshots/transaction.png)
 ![History](screenshots/history.png)
-![Balance Sheet](screenshots/balance sheet.png)
-![Security Checks](screenshots/security checks.png)
+![Balance Sheet](screenshots/balance%20sheet.png)
+![Security Checks](screenshots/security%20checks.png)
 ![Alert](screenshots/alert.png)
+
 
