@@ -56,3 +56,19 @@ The system continuously monitors user behavior such as interaction patterns, nav
 1. Clone the repository:
    ```bash
    git clone https://github.com/Rakshita-mathad/Intelligent-Behavior-Cyber-Lock-Securing-the-apps-through-user-behavior.git
+
+---
+
+## Screenshots
+
+![Login](screenshots/login.jpeg)
+![Register](screenshots/register.jpeg)
+![Admin Dashboard](screenshots/admin dashboard.jpeg)
+![System Overview](screenshots/system overview.jpeg)
+![User Management](screenshots/user management.jpeg)
+![Transaction](screenshots/transaction.png)
+![History](screenshots/history.png)
+![Balance Sheet](screenshots/balance sheet.png)
+![Security Checks](screenshots/security checks.png)
+![Alert](screenshots/alert.png)
+
